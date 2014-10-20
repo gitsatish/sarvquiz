@@ -12,9 +12,9 @@ include($_INC_REQUIRE."config.php");
 			$man+=1;
 		}
 		fvb ghbghhyyy
+		yuyuyuu
 	}
 	if($man>=$qu_count)
-	{
 		if($_REQUEST['quiz_id']!='')
 		{
 			
