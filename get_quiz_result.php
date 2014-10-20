@@ -11,7 +11,7 @@ include($_INC_REQUIRE."config.php");
 		{
 			$man+=1;
 		}
-		
+		fvb ghbghhyyy
 	}
 	if($man>=$qu_count)
 	{
